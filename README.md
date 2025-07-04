@@ -12,9 +12,9 @@ The data source for this project is a csv (comma separated value) given by the i
 •	Dax
 •	Power BI visualization
 ### *Data Cleaning and preparation*
-•	Removing of null value arising from the department column
-•	Removing of empty arising from the salary column
-•	Replacing the undisclosed gender with prefer not to say
+ - Removing of null value arising from the department column
+ - Removing of empty arising from the salary column
+ - Replacing the undisclosed gender with prefer not to say
 •	The data type of salary column was change from whole number to fixed decimal point
 •	Column profiling base on 1000 row and entire data set shows that salary column has 4% empty.
 ### *Exploratory data analysis*
