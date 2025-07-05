@@ -15,12 +15,27 @@ The data source for this project is a csv (comma separated value) given by the i
  - Removing of null value arising from the department column
  - Removing of empty arising from the salary column
  - Replacing the undisclosed gender with prefer not to say
-•	The data type of salary column was change from whole number to fixed decimal point
-•	Column profiling base on 1000 row and entire data set shows that salary column has 4% empty.
+ - The data type of salary column was change from whole number to fixed decimal point
+ -  Column profiling base on 1000 row and entire data set shows that salary column has 4% empty.
 ### *Exploratory data analysis*
-What is the gender distribution in the organization?
-Which gender has the highest rating
-Understand financial strength of the company to compete with other manufacturing com0wnys
+  1. What is the gender distribution in the organization?
+  2. Which gender has the highest rating
+  3. Understand financial strength of the company to compete with other manufacturing compwnys
 ### *Data Analysis*
 
-### *My Findings*
+### *Insight and Findings*
+ - Current employee of the company are 946 staff
+ - Total number of department in the company are 12
+ - Total salaries paid before bonus added was $69,723,670
+ - Average Salary is $73,703.67
+ - There is a high gender gap balance in the company as male staff only surpasses female staff with 5.16%
+ - Total bonus paid to staff is $1,993,140.98
+ - Total salaries paid after bonus added was $71,731,332.46
+ - It is observed that bonus salaries where not paid to staff in Accounting department
+#### Basic Question
+A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000. Does Palmoria meet this requirement? 
+#### Answer
+Palmoria group did not meet this requirement because the minimum salary paid to their staff is $28,130.00 and their average salary of $73,703.67 
+is also less than this set requirement.
+
+
