@@ -22,6 +22,11 @@ The data source for this project is a csv (comma separated value) given by the i
   2. Which gender has the highest rating
   3. Understand financial strength of the company to compete with other manufacturing compwnys
 ### *Data Analysis*
+<img width="503" alt="page 1" src="https://github.com/user-attachments/assets/6f6cda5f-a8ed-4a6c-b299-fde51a63f7da" />
+<img width="447" alt="page 2" src="https://github.com/user-attachments/assets/001e1601-26a2-48ba-a5ca-20018d67fd23" />
+<img width="504" alt="page 3" src="https://github.com/user-attachments/assets/be909f4c-b20f-4fa2-b6ea-931bac0a78a1" />
+<img width="485" alt="page 4" src="https://github.com/user-attachments/assets/027dc01f-2832-4f03-8008-b5bc5c7b2f75" />
+<img width="589" alt="page 5" src="https://github.com/user-attachments/assets/abe97cb4-979f-42be-b05f-e42a7ddac717" />
 
 ### *Insight and Findings*
  - Current employee of the company are 946 staff
